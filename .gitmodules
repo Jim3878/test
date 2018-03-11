@@ -1,0 +1,3 @@
+[submodule "OGUI"]
+	path = OGUI
+	url = https://github.com/Jim3878/SwitchTool.git
